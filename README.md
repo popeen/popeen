@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**popeen/popeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi friend👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Looks like you found my Github page, fun! I am a Developer and SysAdmin from Sweden.
+
+[![Linkedin: johansson-patrik](https://img.shields.io/badge/-Patrik%20Johansson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johansson-patrik/)](https://www.linkedin.com/in/johansson-patrik/)
+[![GitHub: @popeen](https://img.shields.io/github/followers/popeen?label=follow&style=social)](https://github.com/popeen)
+<a href="https://popeen.com">
+  <img src="https://img.shields.io/badge/Blog-Misc_Tech-00d084" alt="Misc Tech blog Popeen.com">
+</a>
+<a href="https://scriptingnerd.com">
+  <img src="https://img.shields.io/badge/Blog-Sysadmin-012456" alt="Sysadmin blog Scriptingnerd.com">
+</a>
+</a>
+[![email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
+
+![Patriks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&hide=["issues"]&show_icons=true)
+
+
+# If you are here you are probably looking for one of these repos
+## Booksonic
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-App)](https://github.com/popeen/Booksonic-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-Air)](https://github.com/popeen/Booksonic-Air)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-ControlPanelForWindows)](https://github.com/popeen/Booksonic-ControlPanelForWindows)
+
+
+## Home Assistant Custom Components
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-TCL-Remote)](https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-Temperatur-Nu)](https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-MotalaVattenAvfall)](https://github.com/popeen/Home-Assistant-Custom-Component-MotalaVattenAvfall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-Hemglass)](https://github.com/popeen/Home-Assistant-Custom-Component-Hemglass)
+
+## Other popular repos
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
+
+
