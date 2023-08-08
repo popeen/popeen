@@ -7,16 +7,11 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 
 [![Linkedin: johansson-patrik](https://img.shields.io/badge/-Patrik%20Johansson-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johansson-patrik/)](https://www.linkedin.com/in/johansson-patrik/)
 [![GitHub: @popeen](https://img.shields.io/github/followers/popeen?label=follow&style=social)](https://github.com/popeen)
-<a href="https://popeen.com">
-  <img src="https://img.shields.io/badge/Blog-Misc_Tech-00d084" alt="Misc Tech blog Popeen.com">
-</a>
-<a href="https://scriptingnerd.com">
-  <img src="https://img.shields.io/badge/Blog-Sysadmin-012456" alt="Sysadmin blog Scriptingnerd.com">
-</a>
-</a>
-[![email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
+[![Blog: misc techj](https://img.shields.io/badge/Blog-Misc_Tech-00d084)](https://popeen.com)
+[![Blog: sysadmin](https://img.shields.io/badge/Blog-Sysadmin-012456)](https://scriptingnerd.com)
+[![Email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
 
-![Patriks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&hide=["issues"]&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)
 
 ## Latest log posts
 <!-- BLOG-POST-LIST:START -->
