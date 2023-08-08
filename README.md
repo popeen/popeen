@@ -18,6 +18,9 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 
 ![Patriks's GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&hide=["issues"]&show_icons=true)
 
+## Latest log posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
 ## Booksonic
