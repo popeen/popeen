@@ -20,6 +20,11 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 
 ## Latest log posts
 <!-- BLOG-POST-LIST:START -->
+- [How to download CMTrace from Microsoft](https://scriptingnerd.com/2023/02/02/how-to-download-cmtrace-from-microsoft/)
+- [How I fixed a bootloop when flashing magisk after upgrading Lineage OS](https://popeen.com/2022/12/11/how-i-fixed-a-bootloop-when-flashing-magisk-after-upgrading-lineage-os/)
+- [Powershell counting to $null instead of 1](https://scriptingnerd.com/2022/04/19/powershell-counting-to-null-instead-of-1/)
+- [How I upgraded the Lenovo 4 10 Plus to Android 11 and passed SafetyNet](https://popeen.com/2022/04/17/how-i-upgraded-the-lenovo-4-10-plus-to-android-11-and-passed-safetynet/)
+- [Running ForEach in parallel on Windows Powershell 5 &lpar;and older&rpar;](https://scriptingnerd.com/2021/11/27/running-foreach-in-parallel-on-windows-powershell-5-and-older/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
