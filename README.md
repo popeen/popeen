@@ -12,6 +12,7 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 [![Email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=popeen)
 
 ## Latest log posts
 <!-- BLOG-POST-LIST:START -->
