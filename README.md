@@ -14,7 +14,7 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)
 <!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=popeen)-->
 
-## Latest log posts
+## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to download CMTrace from Microsoft](https://scriptingnerd.com/2023/02/02/how-to-download-cmtrace-from-microsoft/)
 - [How I fixed a bootloop when flashing magisk after upgrading Lineage OS](https://popeen.com/2022/12/11/how-i-fixed-a-bootloop-when-flashing-magisk-after-upgrading-lineage-os/)
