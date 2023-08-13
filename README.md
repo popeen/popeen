@@ -37,6 +37,8 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-MotalaVattenAvfall)](https://github.com/popeen/Home-Assistant-Custom-Component-MotalaVattenAvfall)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-Hemglass)](https://github.com/popeen/Home-Assistant-Custom-Component-Hemglass)
 
+See the complete list of custom components [here](https://github.com/search?q=owner%3Apopeen+custom+component&type=repositories)
+
 ## Other popular repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
 
