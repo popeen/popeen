@@ -16,11 +16,11 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a Powershell script as the system user](https://scriptingnerd.com/2024/01/22/running-a-powershell-script-as-the-system-user/)
 - [How to sideload apps on Firestick using Aptoide TV](https://popeen.com/2023/09/12/how-to-sideload-apps-on-firestick/)
 - [How to sign your git commits on Windows to get verified checkmark on GitHub](https://scriptingnerd.com/2023/08/11/how-to-sign-your-git-commits-on-windows-to-get-verified-checkmark-on-github/)
 - [How to download CMTrace from Microsoft](https://scriptingnerd.com/2023/02/02/how-to-download-cmtrace-from-microsoft/)
 - [How I fixed a bootloop when flashing magisk after upgrading Lineage OS](https://popeen.com/2022/12/11/how-i-fixed-a-bootloop-when-flashing-magisk-after-upgrading-lineage-os/)
-- [Powershell counting to $null instead of 1](https://scriptingnerd.com/2022/04/19/powershell-counting-to-null-instead-of-1/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
