@@ -16,11 +16,11 @@ Looks like you found my Github page, fun! I am a Developer and SysAdmin from Swe
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How I fixed a broken hinge on my  Sony WH-1000XM4](https://popeen.com/2024/03/23/how-i-fixed-a-broken-hinge-on-my-sony-wh-1000xm4/)
 - [How to fix BL-Touch stuck on blinking red light](https://popeen.com/2024/02/06/fix-bl-touch-stuck-on-blinking-red-light/)
 - [How to convert a Xiaomi Bluetooth Temperature and humidity sensor to Zigbee over the air](https://popeen.com/2024/01/30/how-to-convert-a-xiaomi-bluetooth-temperature-and-humidity-sensor-to-zigbee-over-the-air/)
 - [Powershell script for getting your Configuration Manager servers](https://scriptingnerd.com/2024/01/29/powershell-script-for-getting-your-configuration-manager-servers/)
 - [How to reset the air filter remaining on Xiaomi air-purifiers](https://popeen.com/2024/01/23/how-to-reset-the-air-filter-remaining-on-xiaomi-air-purifiers/)
-- [Running a Powershell script as the system user](https://scriptingnerd.com/2024/01/22/running-a-powershell-script-as-the-system-user/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
