@@ -18,9 +18,9 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 <!-- BLOG-POST-LIST:START -->
 - [How to invoke a Task Sequence on your machine using Windows Powershell](https://scriptingnerd.com/2024/09/13/how-to-invoke-a-task-sequence-on-your-machine-using-windows-powershell/)
 - [Fixing CERT_TRUST_IS_UNTRUSTED_ROOT when using Git on Windows](https://scriptingnerd.com/2024/09/06/fixing-cert_trust_is_untrusted_root-when-using-git-on-windows/)
-- [How I fixed a broken hinge on my  Sony WH-1000XM4](https://popeen.com/2024/03/23/how-i-fixed-a-broken-hinge-on-my-sony-wh-1000xm4/)
-- [How to fix BL-Touch stuck on blinking red light](https://popeen.com/2024/02/06/fix-bl-touch-stuck-on-blinking-red-light/)
-- [How to convert a Xiaomi Bluetooth Temperature and humidity sensor to Zigbee over the air](https://popeen.com/2024/01/30/how-to-convert-a-xiaomi-bluetooth-temperature-and-humidity-sensor-to-zigbee-over-the-air/)
+- [Powershell script for getting your Configuration Manager servers](https://scriptingnerd.com/2024/01/29/powershell-script-for-getting-your-configuration-manager-servers/)
+- [Running a Powershell script as the system user](https://scriptingnerd.com/2024/01/22/running-a-powershell-script-as-the-system-user/)
+- [How to sign your git commits on Windows to get verified checkmark on GitHub](https://scriptingnerd.com/2023/08/11/how-to-sign-your-git-commits-on-windows-to-get-verified-checkmark-on-github/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
