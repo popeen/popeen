@@ -16,11 +16,11 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Running a Powershell script on your code before a git commit using pre-commit](https://scriptingnerd.com/2024/11/01/running-a-powershell-script-on-your-code-before-a-git-commit-using-pre-commit/)
 - [How to force Edge to enter reading mode](https://popeen.com/2024/09/27/how-to-force-edge-to-enter-reading-mode/)
 - [How to invoke a Task Sequence on your machine using Windows Powershell](https://scriptingnerd.com/2024/09/13/how-to-invoke-a-task-sequence-on-your-machine-using-windows-powershell/)
 - [Fixing CERT_TRUST_IS_UNTRUSTED_ROOT when using Git on Windows](https://scriptingnerd.com/2024/09/06/fixing-cert_trust_is_untrusted_root-when-using-git-on-windows/)
 - [How I fixed a broken hinge on my  Sony WH-1000XM4](https://popeen.com/2024/03/23/how-i-fixed-a-broken-hinge-on-my-sony-wh-1000xm4/)
-- [How to fix BL-Touch stuck on blinking red light](https://popeen.com/2024/02/06/fix-bl-touch-stuck-on-blinking-red-light/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
