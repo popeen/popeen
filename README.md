@@ -27,21 +27,21 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 # If you are here you are probably looking for one of these repos
 ## Booksonic
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-App)](https://github.com/popeen/Booksonic-App)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-Air)](https://github.com/popeen/Booksonic-Air)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Booksonic-ControlPanelForWindows)](https://github.com/popeen/Booksonic-ControlPanelForWindows)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Booksonic-App)](https://github.com/popeen/Booksonic-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Booksonic-Air)](https://github.com/popeen/Booksonic-Air)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Booksonic-ControlPanelForWindows)](https://github.com/popeen/Booksonic-ControlPanelForWindows)
 
 
 ## Home Assistant Custom Components
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-TCL-Remote)](https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-Temperatur-Nu)](https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-MotalaVattenAvfall)](https://github.com/popeen/Home-Assistant-Custom-Component-MotalaVattenAvfall)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Home-Assistant-Custom-Component-Hemglass)](https://github.com/popeen/Home-Assistant-Custom-Component-Hemglass)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Home-Assistant-Custom-Component-TCL-Remote)](https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Home-Assistant-Custom-Component-Temperatur-Nu)](https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Home-Assistant-Custom-Component-MotalaVattenAvfall)](https://github.com/popeen/Home-Assistant-Custom-Component-MotalaVattenAvfall)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Home-Assistant-Custom-Component-Hemglass)](https://github.com/popeen/Home-Assistant-Custom-Component-Hemglass)
 
 See the complete list of custom components [here](https://github.com/search?q=owner%3Apopeen+custom+component&type=repositories)
 
 ## Other fun repos
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Stickly)](https://github.com/popeen/Stickly)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Stickly)](https://github.com/popeen/Stickly)
 
 
