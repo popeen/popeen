@@ -10,6 +10,7 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 [![Blog: misc techj](https://img.shields.io/badge/Blog-Misc_Tech-00d084)](https://popeen.com)
 [![Blog: sysadmin](https://img.shields.io/badge/Blog-Dev/Sysadmin-012456)](https://scriptingnerd.com)
 [![Email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
+[![Donation](https://img.shields.io/badge/donation-Buy%20me%20a%20coffee-orange)](https://www.buymeacoffee.com/popeen)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)
 <!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=popeen)-->
