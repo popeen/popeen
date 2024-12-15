@@ -39,7 +39,8 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 
 See the complete list of custom components [here](https://github.com/search?q=owner%3Apopeen+custom+component&type=repositories)
 
-## Other popular repos
+## Other fun repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&repo=Stickly)](https://github.com/popeen/Stickly)
 
 
