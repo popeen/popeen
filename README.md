@@ -17,11 +17,11 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Reclaim lost space on your drive with Spacesniffer](https://popeen.com/2025/01/17/reclaim-lost-space-on-your-drive-with-spacesniffer/)
 - [How to get wifi working on Rock 4 SE and DietPi](https://popeen.com/2025/01/10/how-to-get-wifi-working-on-rock-4-se-and-dietpi/)
 - [Installing all drivers in a driverpack folder using Powershell](https://scriptingnerd.com/2024/11/08/installing-all-drivers-in-a-driverpack-folder-using-powershell/)
 - [Running a Powershell script on your code before a git commit using pre-commit](https://scriptingnerd.com/2024/11/01/running-a-powershell-script-on-your-code-before-a-git-commit-using-pre-commit/)
 - [How to force Edge to enter reading mode](https://popeen.com/2024/09/27/how-to-force-edge-to-enter-reading-mode/)
-- [How to invoke a Task Sequence on your machine using Windows Powershell](https://scriptingnerd.com/2024/09/13/how-to-invoke-a-task-sequence-on-your-machine-using-windows-powershell/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
