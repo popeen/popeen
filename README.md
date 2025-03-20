@@ -19,9 +19,9 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 <!-- BLOG-POST-LIST:START -->
 - [Reclaim lost space on your drive with Spacesniffer](https://popeen.com/2025/01/17/reclaim-lost-space-on-your-drive-with-spacesniffer/)
 - [How to get wifi working on Rock 4 SE and DietPi](https://popeen.com/2025/01/10/how-to-get-wifi-working-on-rock-4-se-and-dietpi/)
+- [Installing all drivers in a driverpack folder using Powershell](https://scriptingnerd.com/2024/11/08/installing-all-drivers-in-a-driverpack-folder-using-powershell/)
+- [Running a Powershell script on your code before a git commit using pre-commit](https://scriptingnerd.com/2024/11/01/running-a-powershell-script-on-your-code-before-a-git-commit-using-pre-commit/)
 - [How to force Edge to enter reading mode](https://popeen.com/2024/09/27/how-to-force-edge-to-enter-reading-mode/)
-- [How I fixed a broken hinge on my  Sony WH-1000XM4](https://popeen.com/2024/03/23/how-i-fixed-a-broken-hinge-on-my-sony-wh-1000xm4/)
-- [How to fix BL-Touch stuck on blinking red light](https://popeen.com/2024/02/06/fix-bl-touch-stuck-on-blinking-red-light/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
