@@ -17,11 +17,11 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A digital Sticky note that is always on top](https://scriptingnerd.com/2025/05/16/a-digital-sticky-note-that-is-always-on-top/)
 - [How to quickly find the path of exe / binary / command files on you computer](https://scriptingnerd.com/2025/05/09/how-to-quickly-find-the-path-of-binary-command-files-on-you-computer/)
 - [Reclaim lost space on your drive with Spacesniffer](https://popeen.com/2025/01/17/reclaim-lost-space-on-your-drive-with-spacesniffer/)
 - [How to get wifi working on Rock 4 SE and DietPi](https://popeen.com/2025/01/10/how-to-get-wifi-working-on-rock-4-se-and-dietpi/)
 - [Installing all drivers in a driverpack folder using Powershell](https://scriptingnerd.com/2024/11/08/installing-all-drivers-in-a-driverpack-folder-using-powershell/)
-- [Running a Powershell script on your code before a git commit using pre-commit](https://scriptingnerd.com/2024/11/01/running-a-powershell-script-on-your-code-before-a-git-commit-using-pre-commit/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
