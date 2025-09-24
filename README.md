@@ -17,11 +17,11 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 
 ## Latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How to open a program as your user on another users desktop remotely](https://scriptingnerd.com/2025/09/19/how-to-open-a-program-as-your-user-on-another-users-desktop-remotely/)
-- [Getting nested nuget dependencies using Powershell](https://scriptingnerd.com/2025/05/23/getting-nested-nuget-dependencies-using-powershell/)
-- [A digital Sticky note that is always on top](https://scriptingnerd.com/2025/05/16/a-digital-sticky-note-that-is-always-on-top/)
-- [How to quickly find the path of exe / binary / command files on you computer](https://scriptingnerd.com/2025/05/09/how-to-quickly-find-the-path-of-binary-command-files-on-you-computer/)
 - [Reclaim lost space on your drive with Spacesniffer](https://popeen.com/2025/01/17/reclaim-lost-space-on-your-drive-with-spacesniffer/)
+- [How to get wifi working on Rock 4 SE and DietPi](https://popeen.com/2025/01/10/how-to-get-wifi-working-on-rock-4-se-and-dietpi/)
+- [How to force Edge to enter reading mode](https://popeen.com/2024/09/27/how-to-force-edge-to-enter-reading-mode/)
+- [How I fixed a broken hinge on my  Sony WH-1000XM4](https://popeen.com/2024/03/23/how-i-fixed-a-broken-hinge-on-my-sony-wh-1000xm4/)
+- [How to fix BL-Touch stuck on blinking red light](https://popeen.com/2024/02/06/fix-bl-touch-stuck-on-blinking-red-light/)
 <!-- BLOG-POST-LIST:END -->
 
 # If you are here you are probably looking for one of these repos
