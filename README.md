@@ -12,7 +12,7 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 [![Email: patrik](https://img.shields.io/badge/Email-Patrik-red)](mailto:github@popeen.com)
 [![Donation](https://img.shields.io/badge/Donation-Buy%20me%20a%20coffee-orange)](https://www.buymeacoffee.com/popeen)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=popeen&show_icons=true)-->
 <!-- ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=popeen)-->
 
 ## Latest blog posts
@@ -23,7 +23,7 @@ Looks like you found my Github page, fun! I am a Developer from Sweden.
 - [A digital Sticky note that is always on top](https://scriptingnerd.com/2025/05/16/a-digital-sticky-note-that-is-always-on-top/)
 - [How to quickly find the path of exe / binary / command files on you computer](https://scriptingnerd.com/2025/05/09/how-to-quickly-find-the-path-of-binary-command-files-on-you-computer/)
 <!-- BLOG-POST-LIST:END -->
-
+<!--
 # If you are here you are probably looking for one of these repos
 ## Booksonic
 
@@ -43,5 +43,5 @@ See the complete list of custom components [here](https://github.com/search?q=ow
 ## Other fun repos
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Classic-Volume-Mixer)](https://github.com/popeen/Classic-Volume-Mixer)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=popeen&description_lines_count=3&repo=Stickly)](https://github.com/popeen/Stickly)
-
+-->
 
